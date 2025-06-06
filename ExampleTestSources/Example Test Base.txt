@@ -1,0 +1,299 @@
+#Odamlar yoki hayvonlarning  aqliga taqlid asosida ishlovchi fikrlash qobilyatiga ega bo’lgan mashinalar  yoki dasturiy ta’minot bu ?
+- PHP 
+- Python  
++ Sun’iy intellekt  
+- Transformer
+
+#Qachon sun’iy intellekt akademik fan sifatida tashkil etilgan?
+- 1955-yil  
++ 1956-yil      
+- 1963-yil         
+- 1977-yil
+
+#Sun’iy intellekt sohasida jiddiy izlanishlar olib borgan birinchi shaxs kim edi?
+- Dartmut   
++ Alan turing  
+- Bell Geyts     
+- Stiv Rojers
+
+#Qachon sun’iy intellektning chuqur o’qitish usuli ishlab chiqildi?
++ 2012-yil   
+- 2013-yil      
+- 2015-yil          
+- 2017-yil
+
+#Qachon sun’iy intellekt sohasida transformer arxitekturasi paydo bo’ldi?
+- 2016-yil   
++ 2017-yil       
+- 2018-yil         
+- 2020-yil
+
+#Sun’iy intellektning tarkibiy qismlaridan biri bu?
+- C# tili      
+- Chiziqli regressiya  
++ Mashinali o’qitish  
+- Amazon
+
+#Mashinali o’rganishning kichik bir sohasi bu?
+- Sun’iy intellekt  
++ Data Science    
+- Kognitiv   
+- Taklif hisobi
+
+#Qaysi kompaniya taklif berish  bashorat qilishda sun’iy intellektning machine  learning usulidan foydalanadi?
+- Tesla                  
++ Facebook        
+- Google              
+- Amazon
+
+#Qaysi kompaniya Sun’iy intellektdan asosan ikkita yo’nalishda foydalanadi?
++ Tesla                  
+- Youtube          
+- Telegram            
+- Google
+
+#Qaysi kompaniya shou va filmlarni oldindan ishlab chiqarish jarayonida sun’iy intellektdan foydalanadi?
+- Tesla                  
++ Netflix             
+- Facebook            
+- Amazon
+
+#Qaysi kompaniyaning o’rgatuvchi asboblar to’plami,ovozli boshqaruv va qulay interfeys kabi funksiyalariga sun’iy intellekt qo’lagan?
++ Apple                
+- Netflix             
+- Facebook            
+- Amazon
+
+#Sensor(nerv tizmi) qayyerlarga signal yuboradi?
++ Orqa miyya va asosiy miyya  
+- Orqa miyya   
+- Asosiy miyya    
+- Yon miyya
+
+#Orqa miyya orqali asosiy miyyaga signal yuboruvchi neyron?
+- Sensor              
+- Interneyron     
++ Dvigatel        
+- Motor
+
+#orqa miya motorini va hissiy neyronlar o’rtasida joylashgan va ularni o’zaro bog’lovchi neyron bu?
+- Dvigatel         
++ Interneyron      
+- Sensor               
+- Motor  
+ 
+#Inson miyyasining ishlash usulini taqlid qiluvchi jarayon orqali ma’lumotlar to’plamidagi asosiy munosabatlarni aniqlashga qaratilgan algoritm ?
+- Sun’iy tabiat   
+- Dendirit           
+- Akson               
++ Neyron tarmoq
+
+#Kimlar tomonidan birinchi bo’lib neyron tarmoqlar uchun dastlabki nazariy asoslar taklif qilingan?
+- Aleksandr Beyn    
+- Uilyem jeyms     
+- Bell Geyts    
++ a va b
+
+#”Har bir faoliyatda ma’lum bir neyronlar to’plamining ishga tushishiga olib keldi’’- ushbu fikr kimga tekishli?
++ Aleksandr Beyn    
+- Uilyam Jeyms     
+- Bell Geyts    
+- DJem Kerri
+
+#”Xotira harakatlari miyadagi neyronlar orasidan oqayotgan elektr toklari natijasida paydo bo’ladi”-ushbu fikr kimga tegishli?
+- Aleksandr Beyn    
++ Uilyam Jeyms     
+- Bell Geyts    
+- DJem Kerri
+
+#Kirish nimalar tomonidan qabul qilinadi?
+- Akson     
++ Dendritlar       
+- Soma        
+- Miya
+
+#Neyronning asosiy tanasiga nima uzatiladi?
+- Akson    
+- Dendritlar        
++ Soma        
+- Miya
+
+#Terminlar tomon uzatish linyasi bu ?
++ Akson     
+- Dendritlar        
+- Soma        
+- Miya
+
+#Tirik organizimlarda neyron tarmog’ining boshqaruv birligi bu ?
+- Akson     
+- Dendritlar        
+- Soma        
++ Miya
+
+#Miyada taxminan qancha neyron mavjud?
+- 1012             
++ 1011             
+- 1014             
+- 1016
+
+#”Asab faoliyatida mavjud g’oyalarning mantiqiy algoritmi”tadqiqotini kimlar olib borishgan?
+- McCulloch    
+- Walter Pitts        
+- Donald Hebb  
++ a va b
+
+#”Xeb qoidasi” nazaryasini taklif qilgan shaxs?
++ Donald Hebb    
+- Marvin Minski   
+- Walter Pits     
+- Frenk Rozenblat
+
+#Marvin Minski va Din Edmunds tomonidan nechta neyrondan iborat tarmoq taqlid qilingan?
++ 37 ta           
+- 39 ta             
++ 40 ta            
+- 41 ta
+
+#Marvin Minski va Din Edmunds qancha vakuum naychalar yordamida o’z-o’zini o’rganish mashina tajribasini o’tkazgan?
++ 3000 ta     
+- 4000 ta          
+- 6000 ta          
+- 8000 ta
+
+#Birinchi perseptronni kim ishlab chiqqan?
+- Donald Hebb    
+- Marvin Minski   
+- Walter Pits    
++ Frenk Rozenblat
+
+#Qachon birinchi perseptron ishlab chiqildi?
+- 1956-yil          
++ 1957-yil              
+- 1958-yil         
+- 1960-yil
+
+#”Perseptron-Hisoblash geometryasiga kirish” kitobi mualliflari kimlar?
+- Marvin Minskiy    
+- Seymur Papert    
+- Donald Hebb    
++ a va b
+
+#”Orqaga tarqalish uchun nazariy asos” tadqiqotchisi kim edi?
++ Yann Le Cun       
+- Seymur Papert      
+- Marvin Minskiy     
+- Walter Pits
+
+#Konvolyutsion neyronn tarmoqlar qachondan beri mavjud?
+- 1989-yil               
++ 1990-yil               
+- 1993-yil                  
+- 1995-yil
+
+#Birinchi konvolyutsion neyron tarmoqlar bu?
+- AlexNet               
+- DanseNet             
+- KokoNet                 
++ LeNet
+
+#AlexNet nechinchi yilda ishlab chiqarilgan?
+- 2011-yil               
++ 2012-yil               
+- 2013-yil                   
+- 2015-yil
+
+#DanseNet nechinchi yilda ishlab chiqarilgan?
++ 2016-yil               
+- 2017-yil               
+- 2019-yil                  
+- 2021-yil
+
+#Sun’iy neyron to’rlari yaralishi asoschisi?
+- Marvin                 
+- Seymur                
++ Turing                    
+- Hebb
+
+#Oddiy neyron necha qismdan iborat?
+- 3 qism            
++ 4 qism                  
+- 5 qism                     
+- 7 qism
+
+#Dendritlarni nimaga o’xshatish mumkin?
++ Neyron quloqlariga     
+- Hujayralarga      
+- Tarmoqlarga     
+- Simlarga
+
+#Neyronning hujayra tanasi bu?
+- Axon                   
+- Dendrit                   
++ Soma               
+- Sinaps
+
+#Nimani xuddi neyronlar ma’lumot yuboradigan kabelga o’xshatish mumkin?
++ Axon                  
+- Dendrit                   
+- Soma                
+- Sinaps
+
+#Akson va boshqa neyron dentritlar o’rtasidagi aloqa bu?
+- Axon                   
+- Dendrit                   
+- Soma                
++ Sinaps
+
+#O’qitish jarayoni uchun modelga kiritilgan xususiyatlar va mma’lumotlar to’plami bu-?
++ Kirish                 
+- Chiqish                    
+- Faollashtirish          
+- Yopish
+
+#Tugunlarning vaznli yig’indisi bu -?
+- Kirish                 
++ Chiqish                    
+- Faollashtirish          
+- Yopish
+
+#Sinaps so’zining ma’nosi?
+- Yengil                
+- Tezlik                       
+- Kuch                     
++ Og’irlik
+
+#Eng qadimgi ANN neyron modeli bu?
++ McCullochh-Pits      
+- Python                
+- Java                      
+- Sinaps
+
+#Sun’iy neyron tarmoq ma’lumotlar to’plami nechi qismdan iborat?
++ 2 qism                     
+- 3 qism                   
+- 5 qism                  
+- 7 qism
+
+#Sun’iy neyron tarmoq qaysi qismlardan iborat?
+- O’qitish                  
+- Sinovdan o’tkazish       
+- Kuzatish         
++ a va b
+
+#Tarmoq o’rganishni optimallashtirish uchun necha foizini o’quv to’plami tashkil qiladi?
+- 75 %                       
++ 80%                    
+- 85%                       
+- 87%
+
+#Tarmoq o’rganishni optimallashtirish uchun necha foizini test to’plami tashkil qiladi?
++ 20%                     
+- 25%                       
+- 35%                       
+- 45%
+
+#Mashinali o’qitishda o’rgatish algoritmlari nechta?
+- 3 ta                       
++ 4 ta                         
+- 5 ta                        
+- 7 ta
